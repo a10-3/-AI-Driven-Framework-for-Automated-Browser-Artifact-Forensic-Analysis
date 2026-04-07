@@ -1,10 +1,12 @@
 📌 AI-Driven Browser Artifact Forensic Analysis
 
+
 🚀 Overview
 
 This project presents an AI-driven framework designed to automate browser forensic analysis by transforming raw browser artifacts into meaningful behavioral insights. It addresses the limitations of traditional manual forensic methods, which are often time-consuming and prone to human error.
 
 The system extracts, processes, and analyzes browser data such as history, cookies, and download records to detect suspicious user behavior using anomaly detection and behavioral analytics.
+
 
 🎯 Key Features
 
@@ -21,6 +23,7 @@ The system extracts, processes, and analyzes browser data such as history, cooki
 🧠 AI-assisted anomaly detection (rule-based + ML-supported)
 
 📌 Visual insights: browsing activity, domain analysis, download trends
+
 
 🧠 Methodology
 
@@ -62,6 +65,7 @@ Visualization
 
 Displays results through an interactive dashboard
 
+
 📊 Output Visualizations
 
 Suspicious Risk Score Distribution
@@ -71,6 +75,7 @@ Daily Browsing Activity
 Top Visited Domains
 
 Top Download Sources
+
 
 🛠️ Tech Stack
 
@@ -94,6 +99,7 @@ VS Code
 
 Git
 
+
 📂 Project Structure
 
 project/
@@ -115,6 +121,7 @@ project/
 │── outputs/
 │── main.py
 
+
 ⚠️ Important Note on Dataset
 
 "Dataset files were excluded from the repository due to security policies and potential presence of sensitive patterns (e.g., API keys)."
@@ -123,6 +130,7 @@ To run this project:
 
 Use your own browser data (Chrome/Edge/Firefox SQLite files)
 OR create a sample dataset with similar structure
+
 
 ▶️ How to Run
 
@@ -136,6 +144,7 @@ pip install -r requirements.txt
 4. Run the Application
 streamlit run app/dashboard.py
 
+
 📌 Applications
 
 Digital Forensics Investigation
@@ -145,6 +154,7 @@ Cybersecurity Monitoring
 Insider Threat Detection
 
 User Behavior Analysis
+
 
 📈 Results
 
@@ -158,6 +168,7 @@ Generates interpretable risk scores
 
 Provides clear visual insights for analysis
 
+
 🚀 Future Improvements
 
 Real-time monitoring of browser activity
@@ -168,9 +179,11 @@ Advanced ML/DL models for anomaly detection
 
 Multi-browser and cross-platform support
 
+
 👩‍💻 Author
 
 Akansha Srivastava
+
 
 ⭐ If you found this useful
 
