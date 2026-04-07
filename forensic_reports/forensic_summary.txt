@@ -1,0 +1,5 @@
+===== Browser Forensics Summary Report =====
+
+Total Unique Websites Visited: 0
+Late Night Browsing Instances (12AM–5AM): 0
+Suspicious Downloads Detected: 31
